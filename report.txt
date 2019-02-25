@@ -1,0 +1,4 @@
+             Student Name 2019 Spring Schedule              
+Class name  Meeting Days  Meeting Times
+cis115      mtwthf        10-12
+web151      mw            01-02

@@ -1,0 +1,60 @@
+Employee 1
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+keymonisakil-slack  hourly    $24  |$40|$960   
+
+Employee 2
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+mathewdeel          salaried  $2   |$3 |$6     
+
+Employee 3
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+leonardodelgado     salaried  $7   |$16|$116   
+
+Employee 4
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+reginaldrichardson  hourly    $12  |$45|$540   
+
+Employee 5
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+jourdanburns        salaried  $45  |$23|$1035  
+
+Employee 6
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+jamesjensen         salaried  $67  |$56|$3752  
+
+Employee 7
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+dirkstrider         hourly    $21  |$43|$903   
+
+Employee 8
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+johnegbert          hourly    $45  |$67|$3015  
+
+Employee 9
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+roselalonde         salaried  $99  |$12|$1188  
+
+Employee 10
+===============================================
+Name                Title     Pay  HrsGross Pay
+===============================================
+jadeharely          hourly    $17  |$14|$238   
+
