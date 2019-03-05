@@ -1,0 +1,22 @@
+                          Student Login Information                          
+Last      First     ID Num    login ID     Email                             
+Cameron   Anthony   19760504  camerona0504 camerona0504@student.faytechcc.edu
+Avery     Steve     19700414  averys0414   averys0414@student.faytechcc.edu  
+Bedrosian Steve     19571206  bedrosis1206 bedrosis1206@student.faytechcc.edu
+Borbon    Pedro     19671115  borbonp1115  borbonp1115@student.faytechcc.edu 
+Clark     Terry     19601018  clarkt1018   clarkt1018@student.faytechcc.edu  
+Clontz    Brad      19710425  clontzb0425  clontzb0425@student.faytechcc.edu 
+Glavine   Tom       19660325  glavinet0325 glavinet0325@student.faytechcc.edu
+Maddux    Greg      19660414  madduxg0414  madduxg0414@student.faytechcc.edu 
+May       Darrell   19720613  mayd0613     mayd0613@student.faytechcc.edu    
+McMichael Greg      19661201  mcmichag1201 mcmichag1201@student.faytechcc.edu
+Mercker   Kent      19680201  merckerk0201 merckerk0201@student.faytechcc.edu
+Murray    Matt      19700926  murraym0926  murraym0926@student.faytechcc.edu 
+Nichols   Rod       19641229  nicholsr1229 nicholsr1229@student.faytechcc.edu
+Schmidt   Jason     19730129  schmidtj0129 schmidtj0129@student.faytechcc.edu
+Smoltz    John      19670515  smoltzj0515  smoltzj0515@student.faytechcc.edu 
+Stanton   Mike      19670602  stantonm0602 stantonm0602@student.faytechcc.edu
+Thobe     Tom       19690903  thobet0903   thobet0903@student.faytechcc.edu  
+Wade      Terrell   19730125  wadet0125    wadet0125@student.faytechcc.edu   
+Wohlers   Mark      19700123  wohlersm0123 wohlersm0123@student.faytechcc.edu
+Woodall   Brad      19690625  woodallb0625 woodallb0625@student.faytechcc.edu
